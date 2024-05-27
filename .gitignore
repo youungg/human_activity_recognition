@@ -12,5 +12,7 @@ data/user26-30/*
 *.csv
 *.7z
 *.zip
-
+*.txt
+*.gzip
+*.pdf
 
